@@ -5,67 +5,6 @@
   "icon": "https://avatars0.githubusercontent.com/u/9592236",
   "repo": "https://github.com/qiuguanfu/jegotrip/tree/master",
   "apps": [
-     "id": "idqq_TG",
-      "name": "wskey 提取器",
-      "keys": ["idqq_TGUserID", "wskeyList"],
-      "author": "@idqq",
-      "icons": [
-        "https://raw.githubusercontent.com/idqq/QuantumultX/master/icon/jd_car.png",
-        "https://raw.githubusercontent.com/idqq/QuantumultX/master/icon/jd_car.png"
-      ],
-      "settings": [
-        {
-          "id": "idqq_TGUserID",
-          "name": "Telegram User ID",
-          "val": "",
-          "type": "number"
-        },
-        {
-          "id": "wskeyList",
-          "name": "wskey List",
-          "val": "",
-          "type": "textarea",
-          "autoGrow": true,
-          "rows": 2
-        }
-      ]
-    },
-      "id": "idqq_api",
-      "name": "自用JDCookie管理",
-      "keys": ["CookiesJD", "idqq_api", "idqq_api_sync_cookie"],
-      "author": "@idqq",
-      "icons": [
-        "https://raw.githubusercontent.com/idqq/QuantumultX/master/icon/link.png",
-        "https://raw.githubusercontent.com/idqq/QuantumultX/master/icon/link.png"
-      ],
-      "settings": [
-        {
-          "id": "CookiesJD",
-          "name": "cookie List",
-          "val": "",
-          "type": "textarea",
-          "autoGrow": true,
-          "rows": 2
-        },
-        {
-          "id": "idqq_api",
-          "name": "api",
-          "val": "",
-          "type": "textarea",
-          "autoGrow": true,
-          "rows": 2
-        },
-        {
-          "id": "idqq_api_sync_cookie",
-          "name": "api",
-          "val": "",
-          "type": "textarea",
-          "autoGrow": true,
-          "rows": 2
-        }
-      ],
-      "script": "https://raw.githubusercontent.com/idqq/QuantumultX/master/Script/syncJDCookie.js"
-    },
     {
       "id": "idqq_jegotrip",
       "name": "无忧行",
@@ -93,62 +32,8 @@
       "author": "@idqq",
       "repo": "https://raw.githubusercontent.com/qiuguanfu/jegotrip/tree/master/jegotrip.js",
       "icons": [
-        "https://raw.githubusercontent.com/idqq/QuantumultX/master/icon/wyx.png",
-        "https://raw.githubusercontent.com/idqq/QuantumultX/master/icon/wyx.png"
-      ]
-    },
-      "id": "idqq_phone",
-      "name": "手机集",
-      "keys": ["idqq_phone_arr"],
-      "settings": [
-        {
-          "id": "idqq_phone_arr",
-          "name": "手机号码",
-          "val": "",
-          "type": "textarea",
-          "desc": "多个时，使用@间隔",
-          "autoGrow": true,
-          "rows": 2
-        }
-      ],
-      "author": "@idqq",
-      "icons": [
-        "https://raw.githubusercontent.com/idqq/QuantumultX/master/icon/sim.png",
-        "https://raw.githubusercontent.com/idqq/QuantumultX/master/icon/sim.png"
-      ]
-    },
-      "id": "idqq_ex",
-      "name": "通用重放脚本",
-      "keys": ["idqq_ex_run_num", "idqq_ex_request"],
-      "settings": [
-        {
-          "id": "idqq_ex_run_num",
-          "name": "自动循环次数",
-          "val": "",
-          "type": "number"
-        },
-        {
-          "id": "idqq_ex_interval",
-          "name": "间隔时间",
-          "val": "",
-          "type": "number",
-          "desc": "单位：毫秒"
-        },
-        {
-          "id": "idqq_ex_request",
-          "name": "请求信息",
-          "val": "",
-          "type": "textarea",
-          "autoGrow": true,
-          "rows": 2
-        }
-      ],
-      "script": "https://raw.githubusercontent.com/idqq/QuantumultX/master/task/ex.task.js",
-      "author": "@idqq",
-      "repo": "https://raw.githubusercontent.com/idqq/QuantumultX/master/task/ex.task.js",
-      "icons": [
-        "https://raw.githubusercontent.com/idqq/QuantumultX/master/icon/ex.png",
-        "https://raw.githubusercontent.com/idqq/QuantumultX/master/icon/ex.png"
+        "https://raw.githubusercontent.com/id77/QuantumultX/master/icon/wyx.png",
+        "https://raw.githubusercontent.com/id77/QuantumultX/master/icon/wyx.png"
       ]
     }
   ]
