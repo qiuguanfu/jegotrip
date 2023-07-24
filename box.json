@@ -28,9 +28,9 @@
           "rows": 2
         }
       ],
-      "script": "https://raw.githubusercontent.com/qiuguanfu/jegotrip/tree/master/jegotrip.js",
+      "script": "https://raw.githubusercontent.com/qiuguanfu/jegotrip/main/jegotrip.js",
       "author": "@idqq",
-      "repo": "https://raw.githubusercontent.com/qiuguanfu/jegotrip/tree/master/jegotrip.js",
+      "repo": "https://raw.githubusercontent.com/qiuguanfu/jegotrip/main/jegotrip.js",
       "icons": [
         "https://raw.githubusercontent.com/id77/QuantumultX/master/icon/wyx.png",
         "https://raw.githubusercontent.com/id77/QuantumultX/master/icon/wyx.png"
