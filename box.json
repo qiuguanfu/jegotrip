@@ -7,10 +7,7 @@
   "apps": [
     {
       "id": "idqq_jegotrip",
-      "name": "无忧行",
-      "descs_html": [
-        "支持开发者：<a href=\"http://www.jegotrip.com.cn/" target=\"_blank\">App邀请活动链接</a>"
-      ],
+      "name": "无忧行QQ",
       "keys": ["idqq_jegotrip_name", "idqq_jegotrip_token"],
       "settings": [
         {
